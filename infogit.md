@@ -27,3 +27,7 @@
 > git branch "branch name" - создание ветки с названием brabcn name
 
 >git checkout "branch_name" - переход к другой ветке 
+
+> git commit -am "message" - "git add" + " git commit -m "message""
+
+> git branch -d "branch_name" - удалить ветку
