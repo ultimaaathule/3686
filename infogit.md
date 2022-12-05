@@ -17,3 +17,5 @@
 > git diff - увидеть разницу между текущим файлом и закоммиченным файлом 
 
 ![](https://naked-science.ru/wp-content/uploads/2018/04/field_image_38.jpg)
+
+# Основные команды 2 семинара
