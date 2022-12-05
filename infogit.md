@@ -31,3 +31,9 @@
 > git commit -am "message" - "git add" + " git commit -m "message""
 
 > git branch -d "branch_name" - удалить ветку
+
+> git log --graph - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
+
+> git merge --abort - отменить слияние, котороепрошло с конфликтом
+
+> git chechout -b <branch_name> - создание ветки и переход к ней
