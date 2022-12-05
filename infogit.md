@@ -26,3 +26,4 @@
 
 > git branch "branch name" - создание ветки с названием brabcn name
 
+>git checkout "branch_name" - переход к другой ветке 
