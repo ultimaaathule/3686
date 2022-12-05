@@ -19,3 +19,5 @@
 ![](https://naked-science.ru/wp-content/uploads/2018/04/field_image_38.jpg)
 
 # Основные команды 2 семинара
+
+> git branch - посмотреть список веток в репозтории
