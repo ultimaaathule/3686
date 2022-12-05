@@ -23,3 +23,5 @@
 > git branch - посмотреть список веток в репозтории
 
 > git commit -am "massage" - добавление файлов в отслеживание и создание коммита
+
+> git branch "branch name" - создание ветки с названием brabcn name
